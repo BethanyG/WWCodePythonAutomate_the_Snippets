@@ -9,7 +9,7 @@
 
 <div>
 <details>
- 	<summary><img align="left" width="120" height="45" src="notes.png"><br>
+ 	<summary><img align="left" width="120" height="45" src="/notes.png"><br>
     </summary>
     
 <br>
@@ -24,7 +24,7 @@ asdka;dsfkjla;sdf
 <br>
 <div>
 <details>
-    <summary><img align="left" width="120" height="45" src="code.png">
+    <summary><img align="left" width="120" height="45" src="/code.png">
     </summary>
 <br>
 
