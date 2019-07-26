@@ -20,7 +20,7 @@
 *    [**Chapter 3**](notes/Chapter_3.md)
 *    [**Chapter 4**]()
 
-
+code/collatz.py
 
 
 <br>
@@ -34,9 +34,11 @@
     <summary><img align="left" width="120" height="45" src="Code.png">
     </summary>
 <br>
-ad;lfkasd;fjklasd
-asd;asdjklf;asdkfa
-asdk;asdfkjl;asdflk;as
+*    [**Chapter 1**](code/)
+*    [**Chapter 2**](code/)
+*    [**Chapter 3**](code/collatz.py)
+*    [**Chapter 4**]()
+
 </details>
 </div>
 </td>
