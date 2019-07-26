@@ -34,11 +34,15 @@ code/collatz.py
     <summary><img align="left" width="120" height="45" src="Code.png">
     </summary>
 <br>
+  
+  
 *    [**Chapter 1**](code/)
 *    [**Chapter 2**](code/)
 *    [**Chapter 3**](code/collatz.py)
 *    [**Chapter 4**]()
 
+
+<br>
 </details>
 </div>
 </td>
