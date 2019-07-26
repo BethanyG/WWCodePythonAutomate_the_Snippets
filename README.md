@@ -6,7 +6,7 @@
 <br>
 <div>
 <details>
- 	<summary><img align="left" width="120" height="45" src="/Users/bethanygarcia/Desktop/study_group/Notes.png"><br>
+ 	<summary><img align="left" width="120" height="45" src="Notes.png"><br>
     </summary>
     
 <br>
@@ -31,7 +31,7 @@
 <br>
 <div>
 <details>
-    <summary><img align="left" width="120" height="45" src="/Users/bethanygarcia/Desktop/study_group/Code.png">
+    <summary><img align="left" width="120" height="45" src="Code.png">
     </summary>
 <br>
 ad;lfkasd;fjklasd
