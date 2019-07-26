@@ -20,8 +20,6 @@
 *    [**Chapter 3**](notes/Chapter_3.md)
 *    [**Chapter 4**]()
 
-code/collatz.py
-
 
 <br>
 <br>
