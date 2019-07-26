@@ -8,7 +8,7 @@ A program is just a series of instructions that the computer will execute one by
 
 ### Boolean Values
 
-![true_and_false](../True%20and%20False.png)
+![true_and_false](../images/True%20and%20False.png)
 
 
 
@@ -21,7 +21,7 @@ A program is just a series of instructions that the computer will execute one by
 
 
 
-![comparison_operators](../Comparison%20Operators.png)
+![comparison_operators](../images/Comparison%20Operators.png)
 
 
 
@@ -33,7 +33,7 @@ _________________________________________________________________
 
 
 
-![boolean_operators](../Boolean%20Operators.png)
+![boolean_operators](../images/Boolean%20Operators.png)
 
 
 &nbsp;
@@ -64,7 +64,7 @@ def is_leap_year(year):
 
 
 
-![if_elif_else](If%20Elif%20Else.png)
+![if_elif_else](../images/If%20Elif%20Else.png)
 
 
 
