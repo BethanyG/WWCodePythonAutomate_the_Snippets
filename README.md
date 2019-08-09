@@ -18,7 +18,7 @@
 *    [**Chapter 1**](notes/Chapter_1.md)
 *    [**Chapter 2**](notes/Chapter_2.md)
 *    [**Chapter 3**](notes/Chapter_3.md)
-*    [**Chapter 4**]()
+*    [**Chapter 4**](notes/Chapter_4.md)
 
 
 <br>
