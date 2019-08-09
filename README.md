@@ -37,7 +37,7 @@
 *    [**Chapter 1**](code/)
 *    [**Chapter 2**](code/)
 *    [**Chapter 3**](code/chapter_3/)
-*    [**Chapter 4**]()
+*    [**Chapter 4**](code/chapter_4/)
 
 
 <br>
